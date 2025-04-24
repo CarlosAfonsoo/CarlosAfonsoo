@@ -40,7 +40,7 @@ Aplicativo Flutter para controle de diabetes com notificações locais e backup 
 ## 📫 Contato | Contact
 
 <p align="left">
-  <a href="[https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/carlos-eduardo-354485219/)">
+  <a href="https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/carlos-eduardo-354485219/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="[https://instagram.com/seuusuario](https://www.instagram.com/carlosphpdeveloper/)">
