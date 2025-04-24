@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou [Seu Nome] | Hi, I'm [Your Name]
 
-Sou desenvolvedor focado em **JavaScript, TypeScript, React, Node.js e Flutter**. Tenho experiência com projetos pessoais e de estudo, tanto para web quanto mobile. Estou em busca da minha primeira oportunidade como **desenvolvedor júnior**, e sempre aberto a novos desafios!
+Sou desenvolvedor backend focado em **JavaScript, TypeScript, React, Node.js e Flutter**. Tenho experiência com projetos pessoais e de estudo, tanto para web quanto mobile. Estou em busca da minha primeira oportunidade como **desenvolvedor júnior**, e sempre aberto a novos desafios!
 
-> I’m a developer focused on **JavaScript, TypeScript, React, Node.js, and Flutter**. I work on personal and study-driven projects for both web and mobile platforms. I’m currently looking for my first opportunity as a **junior developer**, and I’m always open to new challenges!
+> I’m a developer backend focused on **JavaScript, TypeScript, React, Node.js, and Flutter**. I work on personal and study-driven projects for both web and mobile platforms. I’m currently looking for my first opportunity as a **junior developer**, and I’m always open to new challenges!
 
 ---
 
@@ -40,7 +40,6 @@ Aplicativo Flutter para controle de diabetes com notificações locais e backup 
   <a href="https://linkedin.com/in/seuusuario">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" height="20"/>
   </a>
-  <br>
   <a href="https://instagram.com/seuusuario">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="20"/>
   </a>
