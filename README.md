@@ -9,7 +9,7 @@ Sou desenvolvedor backend focado em **JavaScript, TypeScript, React, Node.js e F
 ## 🚀 Tecnologias & Ferramentas | Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000&labelColor=F7DF1E" height="20"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000&labelColor=F7DF1E" height="40"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" height="20"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" height="20"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" height="20"/>
