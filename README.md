@@ -58,9 +58,13 @@ Aplicativo Flutter para controle de diabetes com notificações locais e backup 
 
 ## 📊 GitHub Stats
 
+<p aling="left">
+  
 <img src="https://github-readme-stats.vercel.app/api?username=CarlosAfonsoo&show_icons=true&theme=dracula&count_private=true" width="450" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAfonsoo&layout=compact&theme=dracula" width="450" height="180"/>
+</p>
+
 ---
 
 *Atualizado constantemente com novos projetos!*
