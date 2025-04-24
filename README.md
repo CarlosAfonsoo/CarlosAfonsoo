@@ -23,7 +23,7 @@ Sou desenvolvedor backend focado em **JavaScript, TypeScript, React, Node.js e F
 
 ## 📁 Projetos em Destaque | Featured Projects
 
-<--!🔸 **[Nome do Projeto 1](https://github.com/seuperfil/nome-do-projeto1)**  -->
+🔸 **[Nome do Projeto 1](https://github.com/seuperfil/nome-do-projeto1)** 
 App feito com React + Node.js para [função principal]. Inclui autenticação, consumo de API e painel administrativo.
 
 🔸 **[Nome do Projeto 2](https://github.com/seuperfil/nome-do-projeto2)**  
