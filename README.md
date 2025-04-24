@@ -32,7 +32,9 @@ Aplicativo Flutter para controle de diabetes com notificações locais e backup 
 🔸 **[Mais projetos aqui](https://github.com/seuperfil?tab=repositories)**
 -->
 
--Estou desenvolvendo projetos de protifólio, ainda não finalizado
+<p>
+  -Estou desenvolvendo projetos de protifólio, ainda não finalizado
+</p>  
 ---
 
 ## 📫 Contato | Contact
