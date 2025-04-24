@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome] | Hi, I'm [Your Name]
+# 👋 Olá, eu sou Carlos | Hi, I'm Carlos
 
 Sou desenvolvedor backend focado em **JavaScript, TypeScript, React, Node.js e Flutter**. Tenho experiência com projetos pessoais e de estudo, tanto para web quanto mobile. Estou em busca da minha primeira oportunidade como **desenvolvedor júnior**, e sempre aberto a novos desafios!
 
@@ -23,14 +23,14 @@ Sou desenvolvedor backend focado em **JavaScript, TypeScript, React, Node.js e F
 
 ## 📁 Projetos em Destaque | Featured Projects
 
-🔸 **[Nome do Projeto 1](https://github.com/seuperfil/nome-do-projeto1)**  
+<--🔸 **[Nome do Projeto 1](https://github.com/seuperfil/nome-do-projeto1)**  
 App feito com React + Node.js para [função principal]. Inclui autenticação, consumo de API e painel administrativo.
 
 🔸 **[Nome do Projeto 2](https://github.com/seuperfil/nome-do-projeto2)**  
 Aplicativo Flutter para controle de diabetes com notificações locais e backup no Firebase.
 
 🔸 **[Mais projetos aqui](https://github.com/seuperfil?tab=repositories)**
-
+-->
 ---
 
 ## 📫 Contato | Contact
