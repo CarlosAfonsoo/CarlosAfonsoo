@@ -37,16 +37,16 @@ Aplicativo Flutter para controle de diabetes com notificações locais e backup 
 
 <p align="left">
   <a href="https://linkedin.com/in/seuusuario">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="https://instagram.com/seuusuario">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="40"/>
   </a>
   <a href="https://facebook.com/seuusuario">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="40"/>
   </a>
   <a href="mailto:seu.email@email.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="40"/>
   </a>
 </p>
 
